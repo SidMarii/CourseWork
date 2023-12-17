@@ -1,0 +1,5 @@
+﻿  Project.cpp
+D:\Образование\Алгоритмизация и программирование\III семестр\Курсовая\CourseWork\Project\Logic.h(108,8): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Project.cpp")
+  
+  Project.vcxproj -> D:\Образование\Алгоритмизация и программирование\III семестр\Курсовая\CourseWork\x64\Debug\Project.exe
